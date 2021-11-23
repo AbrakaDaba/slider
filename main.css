@@ -80,7 +80,8 @@ body {
   cursor: pointer;
 }
 .slider__arrow--disabled {
-  opacity: 0.35;
+  opacity: 0.45;
+  pointer-events: none;
 }
 .slider__arrow--disabled:hover {
   color: #dddada;

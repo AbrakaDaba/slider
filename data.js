@@ -1,6 +1,6 @@
 const data = {
     infinite: false,
-    autoplay: false,
+    autoplay: true,
     interval: 3000,
     animationType: "sliding", // sliding: fading
 
